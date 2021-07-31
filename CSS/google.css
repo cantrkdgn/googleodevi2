@@ -1,0 +1,72 @@
+.tepe {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 5px;
+}
+
+.tepe2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black
+}
+
+a:link {
+    color: black;
+text-decoration: none;
+}
+
+
+
+.logo {
+    text-align: center;
+    margin-top: 140px;
+}
+
+.arama
+    {
+        width: 80%;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        font-size: 16px;
+        background-color: white;
+        background-image: url(/images/buyutec.png);
+        background-position: 10px 10px; 
+        background-repeat: no-repeat;
+        padding: 12px 20px 12px 40px;
+        margin: auto auto 20px;
+      }
+
+.butonlar {
+    background-color: #e2e2e2; 
+    border: none;
+    color: black;
+    padding: 14px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: auto;
+    cursor: pointer;
+}
+.ortala
+{
+    text-align: center;
+}
+
+.footer{
+
+    background-color: rgb(218, 218, 218);
+padding: 2%;
+text-align: center;
+margin-top: 390px;
+
+
+}
+
+.footer-text
+{
+    margin: auto 35px;
+}
+
