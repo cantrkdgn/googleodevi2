@@ -1,3 +1,7 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .tepe {
     display: flex;
     align-items: center;
@@ -36,6 +40,8 @@ text-decoration: none;
         background-repeat: no-repeat;
         padding: 12px 20px 12px 40px;
         margin: auto auto 20px;
+        outline-width: 0;
+
       }
 
 .butonlar {
@@ -53,6 +59,7 @@ text-decoration: none;
 .ortala
 {
     text-align: center;
+    font-size: 14px;
 }
 
 .footer{
@@ -70,3 +77,11 @@ margin-top: 390px;
     margin: auto 35px;
 }
 
+.footer-left {
+
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
