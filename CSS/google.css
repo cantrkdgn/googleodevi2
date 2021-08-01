@@ -1,6 +1,16 @@
-body{
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
     font-family: Arial, Helvetica, sans-serif;
-    min-height:100vh; display:flex; flex-direction:column;
+    height: 100%; display:flex; flex-direction:column;
+}
+
+.content {
+    flex: 1;
 }
 
 .tepe {
@@ -68,7 +78,7 @@ text-decoration: none;
     background-color: rgb(218, 218, 218);
 padding: 2%;
 text-align: center;
-margin-top:auto;
+
 
 
 }
